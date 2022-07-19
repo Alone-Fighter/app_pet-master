@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "492276273105",
+    "project_id": "app-pet-time",
+    "storage_bucket": "app-pet-time.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492276273105:android:69c5c289d5d7bce3879af0",
+        "android_client_info": {
+          "package_name": "com.example.app_pet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492276273105-hbj9jmdrva11urbhev80rebagctmvfcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGrVnnML2WOsYwqykXnr5CrHLwGpvwcec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492276273105-hbj9jmdrva11urbhev80rebagctmvfcn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492276273105-32al7d1htqn1hk1tnh4su4g79ulnmbtn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pettime2022"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
